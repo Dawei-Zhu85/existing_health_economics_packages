@@ -4,7 +4,7 @@ Health Economics R Packages
 
 A guide to some R packages that we know about for health economic analysis.
 
-[Click here to suggest packages.](https://github.com/Health-Economics-in-R/health_economics_R_packages/issues)
+[Click here to suggest packages.](https://github.com/Health-Economics-in-R/ideas_for_packages/issues)
 
 Overview
 --------
