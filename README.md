@@ -36,6 +36,7 @@ Cost-effectiveness analysis
 -   [QoLR](https://cran.r-project.org/web/packages/QoLR/index.html) - Analysis of Health-Related Quality of Life in Oncology
 -   [PROscorer](https://cran.rstudio.com/web/packages/PROscorer/index.html) - Functions to Score Commonly-Used Patient-Reported Outcome (PRO) Measures and Other Psychometric Instruments
 -   [ArvoRe](http://arvore.r-forge.r-project.org/) - Cost-effectiveness Analysis (CEA) implementation for R oriented to compute problems that involve simple decision tree models and Markov models. It offer a graphic user interface (GUI) developed in Tcl/Tk. This graphical interface simplifies the decision tree creation task and its manipulation, such as, nodes addition, probability values definition, node kind configuration, etc.
+-    [dampack](https://github.com/feralaes/dampack) - R package with useful functions to develop and analyze decision-analytic models
 
 
 Decision trees
