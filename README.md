@@ -62,6 +62,7 @@ Some package not included:
 
 -   [ggm](https://cran.r-project.org/web/packages/ggm/index.html) - Functions for graphical Markov models
 -   [rakeR](https://cran.r-project.org/web/packages/rakeR/index.html) - Easy Spatial Microsimulation (Raking) in R
+-   [adaptivetau](https://cran.r-project.org/web/packages/adaptivetau/index.html) - Implements adaptive tau leaping to approximate the trajectory of a continuous-time stochastic process as described by Cao et al. (2007)
 
 
 
