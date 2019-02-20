@@ -38,6 +38,7 @@ Cost-effectiveness analysis
 -   [ArvoRe](http://arvore.r-forge.r-project.org/) - Cost-effectiveness Analysis (CEA) implementation for R oriented to compute problems that involve simple decision tree models and Markov models. It offer a graphic user interface (GUI) developed in Tcl/Tk. This graphical interface simplifies the decision tree creation task and its manipulation, such as, nodes addition, probability values definition, node kind configuration, etc.
 -    [dampack](https://github.com/feralaes/dampack) - R package with useful functions to develop and analyze decision-analytic models
 -    [ICEinfer](https://cran.rstudio.com/web/packages/ICEinfer/ICEinfer.pdf) - Incremental Cost-Effectiveness Inference using Two Unbiased Samples
+-    [fluEvidenceSynthesis](https://github.com/MJomaba/flu-evidence-synthesis) - econstructing influenza dynamics from surveillance data using evidence synthesis techniques.
 
 Decision trees
 --------------
