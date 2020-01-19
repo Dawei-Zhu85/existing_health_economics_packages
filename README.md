@@ -31,7 +31,7 @@ Cost-effectiveness analysis
 -   [DALY](https://cran.r-project.org/web/packages/DALY/index.html) - The DALY Calculator - Graphical User Interface for Probabilistic DALY Calculation in R
 -   [DALYcalculator](https://github.com/TuftsCEVR/DALYcalculator) -  Calculates disability-adjusted life years for an individual and populations.
 -   [heemod](https://cran.r-project.org/web/packages/heemod/index.html) - Models for Health Economic Evaluation
--   [hesim](http://innovationvalueinitiative.github.io/hesim/) - Heath economic simulation modeling and decision analysis 
+-   [hesim](https://github.com/hesim-dev/hesim) - Heath economic simulation modeling and decision analysis 
 -   [iSQoL2](http://sites.stat.sinica.edu.tw/isqol/) - Integration of Survival with QoL or Cost
 -   [radiant](http://vnijs.github.io/radiant/) - Business Analytics using R and Shiny
 -   [QoLR](https://cran.r-project.org/web/packages/QoLR/index.html) - Analysis of Health-Related Quality of Life in Oncology
